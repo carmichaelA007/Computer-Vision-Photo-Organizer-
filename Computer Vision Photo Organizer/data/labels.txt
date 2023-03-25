@@ -1,0 +1,14 @@
+0 running/walking
+1 other
+2 bicycling
+3 conditioning_exercise
+4 dancing
+5 fishing_and_hunting
+6 home_activities
+7 home_repair
+8 lawn_and_garden
+9 music_playing
+10 occupation
+11 sports
+12 water_activities
+13 winter_activities
